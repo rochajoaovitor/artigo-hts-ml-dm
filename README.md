@@ -1,2 +1,2 @@
 # artigo-hts-ml-dm
-Repositório dos arquivos do artigo 
+Machine learning generated time series analysis and forecasting model for performance evaluation and decision making 
